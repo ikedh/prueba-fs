@@ -3,7 +3,10 @@ const bebidas= ["jugo","gaseosa","agua"];
 const unidades = [4,3,10,43];
 
 
-const saludosMikes = "Buenas Noches"
+const edad = 40
+const nombre = "emilio"
+
+
 
 
 
